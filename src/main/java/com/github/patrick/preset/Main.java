@@ -1,0 +1,7 @@
+package com.github.patrick.preset;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
